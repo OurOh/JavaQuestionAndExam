@@ -4,12 +4,16 @@ public class WhileEx02 {
 
     public static void main(String[] args) {
 
-        int num = 2;
-        int count = 1;
+        int num = 1;
+        int count = 0;
 
         while (count <= 10) {
-            System.out.println(num);
+            if (num % 2 == 0) {
+                System.out.println(num);
+                count ++;
+            }
             num ++;
+
         }
     }
 }
