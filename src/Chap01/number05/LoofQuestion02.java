@@ -1,6 +1,6 @@
 package Chap01.number05;
 
-public class WhileQuestion02 {
+public class LoofQuestion02 {
 /*
     문제: 짝수 출력
     반복문을 사용하여 처음 10개의 짝수를 출력하는 프로그램을 작성해 보세요.
