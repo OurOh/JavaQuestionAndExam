@@ -25,7 +25,8 @@ public class Method01 {
         } else {
             System.out.println(amount + "원을 출금하려했으나 잔액이 부족합니다.");
 
-            return balance;
+
         }
+        return balance;
     }
 }
