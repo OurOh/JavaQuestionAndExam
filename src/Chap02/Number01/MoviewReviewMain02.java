@@ -6,7 +6,6 @@ public class MoviewReviewMain02 {
         MovieReview[] reviews = new MovieReview[2];
 
         MovieReview inception = new MovieReview();
-
         inception.title = "인셉션";
         inception.review = "인생은 무한 루프";
         reviews[0] = inception;
